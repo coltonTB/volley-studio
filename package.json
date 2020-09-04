@@ -18,7 +18,7 @@
     "dotty": "^0.1.0",
     "email-validator": "^2.0.4",
     "next": "^9.1.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-draggable": "^3.3.0",
